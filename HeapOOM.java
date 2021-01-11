@@ -3,6 +3,8 @@
  * @author Echo
  *
  * */
+import java.util.ArrayList;
+import java.util.List;
 public class HeapOOM{
 	static class OOMObject{
 	}
